@@ -147,4 +147,3 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 ## 👥 Geliştirici
 
 NotMobil projesi - 2024
-
